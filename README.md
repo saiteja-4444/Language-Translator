@@ -5,9 +5,12 @@ The program allows the user to select the source and target languages from a lis
 
 
 # Requirement
-`pip install googletrans`
-`pip install textblob`
+
 `pip install tkinter`
+
+`pip install textblob`
+
+`pip install googletrans`
 
 # Output
 
